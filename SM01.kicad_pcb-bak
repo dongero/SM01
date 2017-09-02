@@ -437,7 +437,7 @@
   )
 
   (module 4ms-footprints:Cap_Ceramic_TH (layer F.Cu) (tedit 593AF7BD) (tstamp 59AA4BC6)
-    (at 71.882 183.896)
+    (at 147.681001 -9.970999)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=7*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 7mm width 2.5mm Capacitor")
     (path /59AABDE6)
@@ -573,7 +573,7 @@
   )
 
   (module 4ms-footprints:Cap_Ceramic_TH (layer F.Cu) (tedit 593AF7BD) (tstamp 59AA4AF6)
-    (at 61.468 183.896)
+    (at 171.901001 -34.860999)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=7*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 7mm width 2.5mm Capacitor")
     (path /59AABDDA)
@@ -675,7 +675,7 @@
   )
 
   (module 4ms-footprints:Cap_Ceramic_TH (layer F.Cu) (tedit 593AF7BD) (tstamp 59AA4A5A)
-    (at 60.96 188.468)
+    (at 147.681001 -6.320999)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=7*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 7mm width 2.5mm Capacitor")
     (path /59AABED2)
@@ -811,7 +811,7 @@
   )
 
   (module 4ms-footprints:Cap_Ceramic_TH (layer F.Cu) (tedit 593AF7BD) (tstamp 59AA498A)
-    (at 61.802 103.632)
+    (at 158.081001 -14.280999)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=7*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 7mm width 2.5mm Capacitor")
     (path /59AABE59)
@@ -913,7 +913,7 @@
   )
 
   (module 4ms-footprints:Cap_Ceramic_TH (layer F.Cu) (tedit 593AF7BD) (tstamp 59AA48EE)
-    (at 62.23 99.822)
+    (at 180.051001 -37.280999)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=7*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 7mm width 2.5mm Capacitor")
     (path /59AABE5F)
@@ -2129,7 +2129,7 @@
   )
 
   (module 4ms-footprints:Cap_Electrolytic_TH (layer F.Cu) (tedit 594086EC) (tstamp 59AA3B6C)
-    (at 78.232 168.91)
+    (at 178.391001 -16.760999)
     (descr "CP, Radial series, Radial, pin pitch=2.50mm, , diameter=6.3mm, Electrolytic Capacitor")
     (tags "CP Radial series Radial pin pitch 2.50mm  diameter 6.3mm Electrolytic Capacitor")
     (path /59AABDEC)
@@ -2621,7 +2621,7 @@
   )
 
   (module 4ms-footprints:Cap_Electrolytic_TH (layer F.Cu) (tedit 594086EC) (tstamp 59AA363E)
-    (at 61.976 168.402)
+    (at 169.811001 -2.530999)
     (descr "CP, Radial series, Radial, pin pitch=2.50mm, , diameter=6.3mm, Electrolytic Capacitor")
     (tags "CP Radial series Radial pin pitch 2.50mm  diameter 6.3mm Electrolytic Capacitor")
     (path /59AABEC6)
@@ -3113,7 +3113,7 @@
   )
 
   (module 4ms-footprints:Cap_Electrolytic_TH (layer F.Cu) (tedit 594086EC) (tstamp 59AA3110)
-    (at 70.104 168.656)
+    (at 195.851001 -27.180999)
     (descr "CP, Radial series, Radial, pin pitch=2.50mm, , diameter=6.3mm, Electrolytic Capacitor")
     (tags "CP Radial series Radial pin pitch 2.50mm  diameter 6.3mm Electrolytic Capacitor")
     (path /59AABDCE)
@@ -3403,7 +3403,7 @@
   )
 
   (module 4ms-footprints:DIP-14_W7.62mm (layer F.Cu) (tedit 58CC8E2C) (tstamp 59AA2F72)
-    (at 61.976 143.764)
+    (at 83.312 -62.738)
     (descr "14-lead dip package, row spacing 7.62 mm (300 mils)")
     (tags "DIL DIP PDIP 2.54mm 7.62mm 300mil")
     (path /59AABEA2)
@@ -3515,7 +3515,7 @@
   )
 
   (module 4ms-footprints:DIP_8pin_TL072_TH (layer F.Cu) (tedit 598105D4) (tstamp 59AA2ECD)
-    (at 61.468 56.642)
+    (at 97.681001 -40.412855)
     (descr "8-lead dip package, row spacing 7.62 mm (300 mils)")
     (tags "DIL DIP PDIP 2.54mm 7.62mm 300mil")
     (path /59AABE2F)
@@ -4009,7 +4009,7 @@
   )
 
   (module 4ms-footprints:Diode_BAT-85S_TH (layer F.Cu) (tedit 593AFBD4) (tstamp 59AA2B9B)
-    (at 62.992 78.74)
+    (at 142.481001 -29.420999)
     (descr "D, A-405 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf")
     (tags "D A-405 series Axial Horizontal pin pitch 7.62mm  length 5.2mm diameter 2.7mm")
     (path /59AABE3B)
@@ -4049,7 +4049,7 @@
   )
 
   (module 4ms-footprints:LED-C1-A2-3MM-VERT (layer F.Cu) (tedit 594C1C1B) (tstamp 59AA2B63)
-    (at 30.48 144.018)
+    (at 90.82719 -3.4385)
     (descr "LED 3mm round vertical")
     (tags "LED  3mm round vertical")
     (path /599C791C)
@@ -4082,7 +4082,7 @@
   )
 
   (module 4ms-footprints:LED-C1-A2-3MM-VERT (layer F.Cu) (tedit 594C1C1B) (tstamp 59AA2B32)
-    (at 75.692 145.034)
+    (at 182.21719 -61.9285)
     (descr "LED 3mm round vertical")
     (tags "LED  3mm round vertical")
     (path /59AABE0A)
@@ -4183,8 +4183,8 @@
     )
   )
 
-  (module 4ms-footprints:POT-9MM-ALPHA (layer F.Cu) (tedit 5931A27D) (tstamp 59AA2A8B)
-    (at 64.262163 46.128243)
+  (module 4ms-footprints:POT-9MM-ALPHA locked (layer F.Cu) (tedit 5931A27D) (tstamp 59AA2A8B)
+    (at 76.454 45.212)
     (path /59AABF39)
     (fp_text reference SENSE2 (at -1.905 -4.0132) (layer F.SilkS)
       (effects (font (size 1.2065 1.2065) (thickness 0.1524)) (justify left bottom))
@@ -4400,7 +4400,7 @@
   )
 
   (module 4ms-footprints:POT-9MM-ALPHA (layer F.Cu) (tedit 5931A27D) (tstamp 59AA291D)
-    (at 65.278 90.17)
+    (at 63.576363 -42.924157)
     (path /59AABE9C)
     (fp_text reference ATTACK2 (at -1.905 -4.0132) (layer F.SilkS)
       (effects (font (size 1.2065 1.2065) (thickness 0.1524)) (justify left bottom))
@@ -4508,7 +4508,7 @@
   )
 
   (module 4ms-footprints:POT-9MM-ALPHA (layer F.Cu) (tedit 5931A27D) (tstamp 59AA2866)
-    (at 66.294 133.858)
+    (at 56.718363 -9.904157)
     (path /59AABE71)
     (fp_text reference DECAY2 (at -1.905 -4.0132) (layer F.SilkS)
       (effects (font (size 1.2065 1.2065) (thickness 0.1524)) (justify left bottom))
@@ -4796,7 +4796,7 @@
   )
 
   (module 4ms-footprints:POT-9MM-ALPHA (layer F.Cu) (tedit 5931A27D) (tstamp 59AA267E)
-    (at 79.248 90.17)
+    (at 50.114363 -57.148157)
     (path /59AABDF2)
     (fp_text reference OSC2 (at -1.905 -4.0132) (layer F.SilkS)
       (effects (font (size 1.2065 1.2065) (thickness 0.1524)) (justify left bottom))
@@ -4937,7 +4937,7 @@
   )
 
   (module 4ms-footprints:Resistor_TH_300 (layer F.Cu) (tedit 593AF381) (tstamp 59AA25AA)
-    (at 64.77 121.92)
+    (at 172.3045 -37.974999)
     (descr "Resitance 3 pas")
     (tags R)
     (path /59AABE6B)
@@ -5027,7 +5027,7 @@
   )
 
   (module 4ms-footprints:Resistor_TH_300 (layer F.Cu) (tedit 593AF381) (tstamp 59AA2532)
-    (at 77.216 151.638)
+    (at 179.5645 -45.964999)
     (descr "Resitance 3 pas")
     (tags R)
     (path /59AABE04)
@@ -5057,7 +5057,7 @@
   )
 
   (module 4ms-footprints:Resistor_TH_300 (layer F.Cu) (tedit 593AF381) (tstamp 59AA250A)
-    (at 31.75 151.384)
+    (at 165.6245 -35.174999)
     (descr "Resitance 3 pas")
     (tags R)
     (path /599C7322)
@@ -5117,7 +5117,7 @@
   )
 
   (module 4ms-footprints:Resistor_TH_300 (layer F.Cu) (tedit 593AF381) (tstamp 59AA24BA)
-    (at 65.786 73.66)
+    (at 141.4045 -11.324999)
     (descr "Resitance 3 pas")
     (tags R)
     (path /59AABE41)
@@ -5267,7 +5267,7 @@
   )
 
   (module 4ms-footprints:Resistor_TH_300 (layer F.Cu) (tedit 593AF381) (tstamp 59AA23F2)
-    (at 65.532 69.342)
+    (at 144.0545 -23.404999)
     (descr "Resitance 3 pas")
     (tags R)
     (path /59AABE47)
@@ -5357,14 +5357,14 @@
   )
 
   (module 4ms-footprints:Resistor_TH_300 (layer F.Cu) (tedit 593AF381) (tstamp 59AA237A)
-    (at 73.66 20.828 90)
+    (at 153.4645 -23.624999)
     (descr "Resitance 3 pas")
     (tags R)
     (path /59AABE23)
-    (fp_text reference R2 (at -1.524 0 90) (layer F.SilkS)
+    (fp_text reference R2 (at -1.524 0) (layer F.SilkS)
       (effects (font (size 0.7 0.7) (thickness 0.1)))
     )
-    (fp_text value 1k (at 1.524 0 90) (layer F.SilkS)
+    (fp_text value 1k (at 1.524 0) (layer F.SilkS)
       (effects (font (size 0.7 0.7) (thickness 0.1)))
     )
     (fp_line (start -3.302 -0.508) (end -2.794 -1.016) (layer F.SilkS) (width 0.15))
@@ -5375,9 +5375,9 @@
     (fp_line (start 3.302 0) (end 3.302 -1.016) (layer F.SilkS) (width 0.15))
     (fp_line (start 3.81 0) (end 3.302 0) (layer F.SilkS) (width 0.15))
     (fp_line (start -3.81 0) (end -3.302 0) (layer F.SilkS) (width 0.15))
-    (pad 2 thru_hole circle (at 3.81 0 90) (size 1.397 1.397) (drill 0.8128) (layers *.Cu *.Mask)
+    (pad 2 thru_hole circle (at 3.81 0) (size 1.397 1.397) (drill 0.8128) (layers *.Cu *.Mask)
       (net 102 "Net-(R2-Pad2)"))
-    (pad 1 thru_hole circle (at -3.81 0 90) (size 1.397 1.397) (drill 0.8128) (layers *.Cu *.Mask)
+    (pad 1 thru_hole circle (at -3.81 0) (size 1.397 1.397) (drill 0.8128) (layers *.Cu *.Mask)
       (net 51 "Net-(R2-Pad1)"))
     (model Discret.3dshapes/R3.wrl
       (at (xyz 0 0 0))
@@ -5537,7 +5537,7 @@
   )
 
   (module 4ms-footprints:Resistor_TH_300 (layer F.Cu) (tedit 593AF381) (tstamp 59AA228A)
-    (at 64.262 179.07)
+    (at 131.5045 -4.894999)
     (descr "Resitance 3 pas")
     (tags R)
     (path /59AABEC0)
@@ -5627,7 +5627,7 @@
   )
 
   (module 4ms-footprints:Resistor_TH_300 (layer F.Cu) (tedit 593AF381) (tstamp 59AA2212)
-    (at 64.77 175.26)
+    (at 162.8945 -37.754999)
     (descr "Resitance 3 pas")
     (tags R)
     (path /59AABDC8)
@@ -5957,7 +5957,7 @@
   )
 
   (module 4ms-footprints:Resistor_TH_300 (layer F.Cu) (tedit 593AF381) (tstamp 59AA205A)
-    (at 75.438 179.324)
+    (at 145.8145 -26.204999)
     (descr "Resitance 3 pas")
     (tags R)
     (path /59AABED8)
@@ -6047,7 +6047,7 @@
   )
 
   (module 4ms-footprints:Resistor_TH_300 (layer F.Cu) (tedit 593AF381) (tstamp 59AA1FE2)
-    (at 75.438 175.768)
+    (at 201.1145 -64.494999)
     (descr "Resitance 3 pas")
     (tags R)
     (path /59AABDE0)
@@ -6227,7 +6227,7 @@
   )
 
   (module 4ms-footprints:Resistor_TH_300 (layer F.Cu) (tedit 593AF381) (tstamp 59AA1EF2)
-    (at 73.914 189.738)
+    (at 140.9145 -3.584999)
     (descr "Resitance 3 pas")
     (tags R)
     (path /59AD578F)
@@ -6409,7 +6409,7 @@
   )
 
   (module 4ms-footprints:SPDT-SUB (layer F.Cu) (tedit 55CE7527) (tstamp 59AA1DF3)
-    (at 61.214 20.066)
+    (at 151.696 -45.70977)
     (path /59AABE83)
     (fp_text reference SW2 (at -3.21 -4.92) (layer F.SilkS)
       (effects (font (size 1.2065 1.2065) (thickness 0.1524)) (justify left bottom))
@@ -6537,7 +6537,7 @@
   )
 
   (module 4ms-footprints:SPDT-SUB (layer F.Cu) (tedit 55CE7527) (tstamp 59AA1D2F)
-    (at 68.326 20.32)
+    (at 138.336 -31.35977)
     (path /59AABE89)
     (fp_text reference SW6 (at -3.21 -4.92) (layer F.SilkS)
       (effects (font (size 1.2065 1.2065) (thickness 0.1524)) (justify left bottom))
@@ -6665,7 +6665,7 @@
   )
 
   (module 4ms-footprints:SPDT-SUB (layer F.Cu) (tedit 55CE7527) (tstamp 59AA1C6B)
-    (at 61.976 112.268)
+    (at 127.446 -31.35977)
     (path /59AABE7D)
     (fp_text reference SW10 (at -3.21 -4.92) (layer F.SilkS)
       (effects (font (size 1.2065 1.2065) (thickness 0.1524)) (justify left bottom))
@@ -6825,7 +6825,7 @@
   )
 
   (module 4ms-footprints:SPDT-SUB (layer F.Cu) (tedit 55CE7527) (tstamp 59AA1B76)
-    (at 68.58 111.76)
+    (at 110.516 -30.37977)
     (path /59AABEEA)
     (fp_text reference SW15 (at -3.21 -4.92) (layer F.SilkS)
       (effects (font (size 1.2065 1.2065) (thickness 0.1524)) (justify left bottom))
@@ -7147,7 +7147,7 @@
   )
 
   (module zfoot:Jack_Instrument (layer F.Cu) (tedit 59A8B693) (tstamp 59AA198C)
-    (at 61.468 32.766)
+    (at 195.231001 -44.64825)
     (path /59AABE16)
     (fp_text reference J2 (at -0.0635 2.0955) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
