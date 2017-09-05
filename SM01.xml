@@ -1,0 +1,2087 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>C:\Users\c4am95\Desktop\DRT\SM01\SM01.sch</source>
+    <date>9/4/2017 11:39:11 PM</date>
+    <tool>Eeschema (2017-09-01 revision 8d1475135)-makepkg</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>SM01.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="J4">
+      <value>DC JACK</value>
+      <footprint>zfoot:Jack_DC</footprint>
+      <libsource lib="zMECH" part="JACK-DC"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>599B6E98</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>100uF</value>
+      <footprint>4ms-footprints:Cap_Electrolytic_TH</footprint>
+      <libsource lib="4ms-passives" part="CAP-ELEC-TH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>599B6F28</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>10uF</value>
+      <footprint>4ms-footprints:Cap_Electrolytic_TH</footprint>
+      <libsource lib="4ms-passives" part="CAP-ELEC-TH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>599B6F6E</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>BAT-85</value>
+      <footprint>4ms-footprints:Diode_BAT-85S_TH</footprint>
+      <libsource lib="4ms-passives" part="BAT-85"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>599B73EC</tstamp>
+    </comp>
+    <comp ref="SW4">
+      <value>ON</value>
+      <footprint>4ms-footprints:SPDT-SUB</footprint>
+      <libsource lib="zMECH" part="SPDT_small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>599B78F9</tstamp>
+    </comp>
+    <comp ref="R24">
+      <value>100k</value>
+      <footprint>4ms-footprints:Resistor_TH_300</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>599BFE28</tstamp>
+    </comp>
+    <comp ref="C13">
+      <value>1uF</value>
+      <footprint>4ms-footprints:Cap_Electrolytic_TH</footprint>
+      <libsource lib="4ms-passives" part="CAP-ELEC-TH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>599C010C</tstamp>
+    </comp>
+    <comp ref="C21">
+      <value>.1uF</value>
+      <footprint>4ms-footprints:Cap_Ceramic_TH</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>599C056A</tstamp>
+    </comp>
+    <comp ref="R31">
+      <value>10k</value>
+      <footprint>4ms-footprints:Resistor_TH_300</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>599C0734</tstamp>
+    </comp>
+    <comp ref="C25">
+      <value>.22uF</value>
+      <footprint>4ms-footprints:Cap_Ceramic_TH</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>599C0DD2</tstamp>
+    </comp>
+    <comp ref="C28">
+      <value>1uF</value>
+      <footprint>4ms-footprints:Cap_Electrolytic_TH</footprint>
+      <libsource lib="4ms-passives" part="CAP-ELEC-TH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>599C2490</tstamp>
+    </comp>
+    <comp ref="OSC1">
+      <value>10k</value>
+      <footprint>4ms-footprints:POT-9MM-ALPHA</footprint>
+      <libsource lib="4ms-mech" part="POT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>599C2A1C</tstamp>
+    </comp>
+    <comp ref="R37">
+      <value>10k</value>
+      <footprint>4ms-footprints:Resistor_TH_300</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>599C6298</tstamp>
+    </comp>
+    <comp ref="R12">
+      <value>470</value>
+      <footprint>4ms-footprints:Resistor_TH_300</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>599C7322</tstamp>
+    </comp>
+    <comp ref="J6">
+      <value>VCA IN</value>
+      <footprint>zfoot:Jack_Instrument</footprint>
+      <libsource lib="zMECH" part="JACK-TIP_GND"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59A1AB0D</tstamp>
+    </comp>
+    <comp ref="Q1">
+      <value>2N3904</value>
+      <footprint>4ms-footprints:TO-92_Molded_Narrow</footprint>
+      <libsource lib="transistors" part="2N3904"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59A204EE</tstamp>
+    </comp>
+    <comp ref="R34">
+      <value>100k</value>
+      <footprint>4ms-footprints:Resistor_TH_300</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59A248F7</tstamp>
+    </comp>
+    <comp ref="C24">
+      <value>100nF</value>
+      <footprint>4ms-footprints:Cap_Ceramic_TH</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59A25B09</tstamp>
+    </comp>
+    <comp ref="D6">
+      <value>4148</value>
+      <footprint>4ms-footprints:Diode_BAT-85S_TH</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59A26AA2</tstamp>
+    </comp>
+    <comp ref="R36">
+      <value>10k</value>
+      <footprint>4ms-footprints:Resistor_TH_300</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59A26FA8</tstamp>
+    </comp>
+    <comp ref="R35">
+      <value>1k</value>
+      <footprint>4ms-footprints:Resistor_TH_300</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59A27361</tstamp>
+    </comp>
+    <comp ref="J1">
+      <value>TRIG IN</value>
+      <footprint>zfoot:Jack_Instrument</footprint>
+      <libsource lib="zMECH" part="JACK-TIP_GND"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59A2ED69</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>1k</value>
+      <footprint>4ms-footprints:Resistor_TH_300</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59A2ED77</tstamp>
+    </comp>
+    <comp ref="U1">
+      <value>072</value>
+      <footprint>4ms-footprints:DIP_8pin_TL072_TH</footprint>
+      <libsource lib="4ms-ic" part="TL072"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59A2ED85</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>4148</value>
+      <footprint>4ms-footprints:Diode_BAT-85S_TH</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59A2ED93</tstamp>
+    </comp>
+    <comp ref="R9">
+      <value>200k</value>
+      <footprint>4ms-footprints:Resistor_TH_300</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59A2ED9A</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>10k</value>
+      <footprint>4ms-footprints:Resistor_TH_300</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59A2EDA1</tstamp>
+    </comp>
+    <comp ref="C7">
+      <value>10uF</value>
+      <footprint>4ms-footprints:Cap_Ceramic_TH</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59A2EDBC</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>1uF</value>
+      <footprint>4ms-footprints:Cap_Ceramic_TH</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59A2EDC3</tstamp>
+    </comp>
+    <comp ref="R15">
+      <value>100k</value>
+      <footprint>4ms-footprints:Resistor_TH_300</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59A2EDD0</tstamp>
+    </comp>
+    <comp ref="DECAY1">
+      <value>A500k</value>
+      <footprint>4ms-footprints:POT-9MM-ALPHA</footprint>
+      <libsource lib="4ms-mech" part="POT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59A2EDD7</tstamp>
+    </comp>
+    <comp ref="SW9">
+      <value>DECAYSW1</value>
+      <footprint>4ms-footprints:SPDT-SUB</footprint>
+      <libsource lib="zMECH" part="SPDT_small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59A2EDE4</tstamp>
+    </comp>
+    <comp ref="SW1">
+      <value>HOLD</value>
+      <footprint>4ms-footprints:SPDT-SUB</footprint>
+      <libsource lib="zMECH" part="SPDT_small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59A2EDEB</tstamp>
+    </comp>
+    <comp ref="R7">
+      <value>100k</value>
+      <footprint>4ms-footprints:Resistor_TH_300</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59A35648</tstamp>
+    </comp>
+    <comp ref="R8">
+      <value>100k</value>
+      <footprint>4ms-footprints:Resistor_TH_300</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59A35700</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>100uF</value>
+      <footprint>4ms-footprints:Cap_Electrolytic_TH</footprint>
+      <libsource lib="4ms-passives" part="CAP-ELEC-TH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59A3C37B</tstamp>
+    </comp>
+    <comp ref="R41">
+      <value>100k</value>
+      <footprint>4ms-footprints:Resistor_TH_300</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59A466B5</tstamp>
+    </comp>
+    <comp ref="VOL1">
+      <value>10k</value>
+      <footprint>4ms-footprints:POT-9MM-ALPHA</footprint>
+      <libsource lib="4ms-mech" part="POT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59A4A330</tstamp>
+    </comp>
+    <comp ref="R45">
+      <value>100k</value>
+      <footprint>4ms-footprints:Resistor_TH_300</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59A4E09B</tstamp>
+    </comp>
+    <comp ref="R48">
+      <value>100k</value>
+      <footprint>4ms-footprints:Resistor_TH_300</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59A4EFC6</tstamp>
+    </comp>
+    <comp ref="C32">
+      <value>10uF</value>
+      <footprint>4ms-footprints:Cap_Electrolytic_TH</footprint>
+      <libsource lib="4ms-passives" part="CAP-ELEC-TH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59A549DC</tstamp>
+    </comp>
+    <comp ref="ATTACK1">
+      <value>A500k</value>
+      <footprint>4ms-footprints:POT-9MM-ALPHA</footprint>
+      <libsource lib="4ms-mech" part="POT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59ACB2DF</tstamp>
+    </comp>
+    <comp ref="U4">
+      <value>7414</value>
+      <footprint>4ms-footprints:DIP-14_W7.62mm</footprint>
+      <libsource lib="zIC" part="HEX_INV_TRI"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59A144A6</tstamp>
+    </comp>
+    <comp ref="R21">
+      <value>100k</value>
+      <footprint>4ms-footprints:Resistor_TH_300</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59A3053F</tstamp>
+    </comp>
+    <comp ref="C10">
+      <value>1uF</value>
+      <footprint>4ms-footprints:Cap_Electrolytic_TH</footprint>
+      <libsource lib="4ms-passives" part="CAP-ELEC-TH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59A30545</tstamp>
+    </comp>
+    <comp ref="C18">
+      <value>.1uF</value>
+      <footprint>4ms-footprints:Cap_Ceramic_TH</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59A30551</tstamp>
+    </comp>
+    <comp ref="R28">
+      <value>10k</value>
+      <footprint>4ms-footprints:Resistor_TH_300</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59A30557</tstamp>
+    </comp>
+    <comp ref="SW14">
+      <value>OSCSW1</value>
+      <footprint>4ms-footprints:SPDT-SUB</footprint>
+      <libsource lib="zMECH" part="SPDT_small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59A32225</tstamp>
+    </comp>
+    <comp ref="SW18">
+      <value>MUTE1</value>
+      <footprint>4ms-footprints:SPDT-SUB</footprint>
+      <libsource lib="zMECH" part="SPDT_small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59A57B7E</tstamp>
+    </comp>
+    <comp ref="SENSE1">
+      <value>A50k</value>
+      <footprint>4ms-footprints:POT-9MM-ALPHA</footprint>
+      <libsource lib="4ms-mech" part="POT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59A90FBA</tstamp>
+    </comp>
+    <comp ref="MASTERV1">
+      <value>A100k</value>
+      <footprint>4ms-footprints:POT-9MM-ALPHA</footprint>
+      <libsource lib="4ms-mech" part="POT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59A93216</tstamp>
+    </comp>
+    <comp ref="SW21">
+      <value>MASTERSW</value>
+      <footprint>4ms-footprints:SPDT-SUB</footprint>
+      <libsource lib="zMECH" part="SPDT_small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59A93E23</tstamp>
+    </comp>
+    <comp ref="J7">
+      <value>MIXOUT</value>
+      <footprint>zfoot:Jack_Instrument</footprint>
+      <libsource lib="zMECH" part="JACK-TIP_GND"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AB2B7D</tstamp>
+    </comp>
+    <comp ref="U10">
+      <value>072</value>
+      <footprint>4ms-footprints:DIP_8pin_TL072_TH</footprint>
+      <libsource lib="4ms-ic" part="TL072"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AB7438</tstamp>
+    </comp>
+    <comp ref="U11">
+      <value>072</value>
+      <footprint>4ms-footprints:DIP_8pin_TL072_TH</footprint>
+      <libsource lib="4ms-ic" part="TL072"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AB7749</tstamp>
+    </comp>
+    <comp ref="C31">
+      <value>10uF</value>
+      <footprint>4ms-footprints:Cap_Electrolytic_TH</footprint>
+      <libsource lib="4ms-passives" part="CAP-ELEC-TH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59ACC2B3</tstamp>
+    </comp>
+    <comp ref="J5">
+      <value>TRIG IN</value>
+      <footprint>zfoot:Jack_Instrument</footprint>
+      <libsource lib="zMECH" part="JACK-TIP_GND"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AD1FB6</tstamp>
+    </comp>
+    <comp ref="R18">
+      <value>1k</value>
+      <footprint>4ms-footprints:Resistor_TH_300</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AD1FC3</tstamp>
+    </comp>
+    <comp ref="U8">
+      <value>072</value>
+      <footprint>4ms-footprints:DIP_8pin_TL072_TH</footprint>
+      <libsource lib="4ms-ic" part="TL072"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AD1FCF</tstamp>
+    </comp>
+    <comp ref="D5">
+      <value>4148</value>
+      <footprint>4ms-footprints:Diode_BAT-85S_TH</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AD1FDB</tstamp>
+    </comp>
+    <comp ref="R20">
+      <value>200k</value>
+      <footprint>4ms-footprints:Resistor_TH_300</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AD1FE1</tstamp>
+    </comp>
+    <comp ref="R19">
+      <value>10k</value>
+      <footprint>4ms-footprints:Resistor_TH_300</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AD1FE7</tstamp>
+    </comp>
+    <comp ref="C17">
+      <value>10uF</value>
+      <footprint>4ms-footprints:Cap_Ceramic_TH</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AD1FF9</tstamp>
+    </comp>
+    <comp ref="C16">
+      <value>1uF</value>
+      <footprint>4ms-footprints:Cap_Ceramic_TH</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AD1FFF</tstamp>
+    </comp>
+    <comp ref="R27">
+      <value>100k</value>
+      <footprint>4ms-footprints:Resistor_TH_300</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AD200B</tstamp>
+    </comp>
+    <comp ref="DECAY4">
+      <value>A500k</value>
+      <footprint>4ms-footprints:POT-9MM-ALPHA</footprint>
+      <libsource lib="4ms-mech" part="POT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AD2011</tstamp>
+    </comp>
+    <comp ref="SW13">
+      <value>DECAYSW4</value>
+      <footprint>4ms-footprints:SPDT-SUB</footprint>
+      <libsource lib="zMECH" part="SPDT_small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AD201D</tstamp>
+    </comp>
+    <comp ref="SW8">
+      <value>HOLD</value>
+      <footprint>4ms-footprints:SPDT-SUB</footprint>
+      <libsource lib="zMECH" part="SPDT_small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AD2023</tstamp>
+    </comp>
+    <comp ref="ATTACK4">
+      <value>A500k</value>
+      <footprint>4ms-footprints:POT-9MM-ALPHA</footprint>
+      <libsource lib="4ms-mech" part="POT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AD203C</tstamp>
+    </comp>
+    <comp ref="SENSE4">
+      <value>A50k</value>
+      <footprint>4ms-footprints:POT-9MM-ALPHA</footprint>
+      <libsource lib="4ms-mech" part="POT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AD2069</tstamp>
+    </comp>
+    <comp ref="R38">
+      <value>10k</value>
+      <footprint>4ms-footprints:Resistor_TH_300</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AD578F</tstamp>
+    </comp>
+    <comp ref="R42">
+      <value>100k</value>
+      <footprint>4ms-footprints:Resistor_TH_300</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AD57A2</tstamp>
+    </comp>
+    <comp ref="VOL2">
+      <value>10k</value>
+      <footprint>4ms-footprints:POT-9MM-ALPHA</footprint>
+      <libsource lib="4ms-mech" part="POT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AD57AE</tstamp>
+    </comp>
+    <comp ref="R46">
+      <value>100k</value>
+      <footprint>4ms-footprints:Resistor_TH_300</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AD57B4</tstamp>
+    </comp>
+    <comp ref="SW19">
+      <value>MUTE2</value>
+      <footprint>4ms-footprints:SPDT-SUB</footprint>
+      <libsource lib="zMECH" part="SPDT_small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AD57C3</tstamp>
+    </comp>
+    <comp ref="R39">
+      <value>10k</value>
+      <footprint>4ms-footprints:Resistor_TH_300</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AD6F6F</tstamp>
+    </comp>
+    <comp ref="R43">
+      <value>100k</value>
+      <footprint>4ms-footprints:Resistor_TH_300</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AD6F82</tstamp>
+    </comp>
+    <comp ref="VOL3">
+      <value>10k</value>
+      <footprint>4ms-footprints:POT-9MM-ALPHA</footprint>
+      <libsource lib="4ms-mech" part="POT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AD6F8E</tstamp>
+    </comp>
+    <comp ref="R47">
+      <value>100k</value>
+      <footprint>4ms-footprints:Resistor_TH_300</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AD6F94</tstamp>
+    </comp>
+    <comp ref="SW20">
+      <value>MUTE3</value>
+      <footprint>4ms-footprints:SPDT-SUB</footprint>
+      <libsource lib="zMECH" part="SPDT_small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AD6FA7</tstamp>
+    </comp>
+    <comp ref="U9">
+      <value>072</value>
+      <footprint>4ms-footprints:DIP_8pin_TL072_TH</footprint>
+      <libsource lib="4ms-ic" part="TL072"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AD6FB0</tstamp>
+    </comp>
+    <comp ref="R40">
+      <value>100k</value>
+      <footprint>4ms-footprints:Resistor_TH_300</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AD8486</tstamp>
+    </comp>
+    <comp ref="VOL4">
+      <value>10k</value>
+      <footprint>4ms-footprints:POT-9MM-ALPHA</footprint>
+      <libsource lib="4ms-mech" part="POT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AD8492</tstamp>
+    </comp>
+    <comp ref="R44">
+      <value>100k</value>
+      <footprint>4ms-footprints:Resistor_TH_300</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AD8498</tstamp>
+    </comp>
+    <comp ref="SW17">
+      <value>MUTE4</value>
+      <footprint>4ms-footprints:SPDT-SUB</footprint>
+      <libsource lib="zMECH" part="SPDT_small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AD84AB</tstamp>
+    </comp>
+    <comp ref="R49">
+      <value>1k</value>
+      <footprint>4ms-footprints:Resistor_TH_300</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AEA7B7</tstamp>
+    </comp>
+    <comp ref="R25">
+      <value>100k</value>
+      <footprint>4ms-footprints:Resistor_TH_300</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AABDC8</tstamp>
+    </comp>
+    <comp ref="C14">
+      <value>1uF</value>
+      <footprint>4ms-footprints:Cap_Electrolytic_TH</footprint>
+      <libsource lib="4ms-passives" part="CAP-ELEC-TH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AABDCE</tstamp>
+    </comp>
+    <comp ref="C22">
+      <value>.1uF</value>
+      <footprint>4ms-footprints:Cap_Ceramic_TH</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AABDDA</tstamp>
+    </comp>
+    <comp ref="R32">
+      <value>10k</value>
+      <footprint>4ms-footprints:Resistor_TH_300</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AABDE0</tstamp>
+    </comp>
+    <comp ref="C26">
+      <value>.22uF</value>
+      <footprint>4ms-footprints:Cap_Ceramic_TH</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AABDE6</tstamp>
+    </comp>
+    <comp ref="C29">
+      <value>1uF</value>
+      <footprint>4ms-footprints:Cap_Electrolytic_TH</footprint>
+      <libsource lib="4ms-passives" part="CAP-ELEC-TH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AABDEC</tstamp>
+    </comp>
+    <comp ref="OSC2">
+      <value>10k</value>
+      <footprint>4ms-footprints:POT-9MM-ALPHA</footprint>
+      <libsource lib="4ms-mech" part="POT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AABDF2</tstamp>
+    </comp>
+    <comp ref="R13">
+      <value>470</value>
+      <footprint>4ms-footprints:Resistor_TH_300</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AABE04</tstamp>
+    </comp>
+    <comp ref="J2">
+      <value>TRIG IN</value>
+      <footprint>zfoot:Jack_Instrument</footprint>
+      <libsource lib="zMECH" part="JACK-TIP_GND"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AABE16</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>1k</value>
+      <footprint>4ms-footprints:Resistor_TH_300</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AABE23</tstamp>
+    </comp>
+    <comp ref="U2">
+      <value>072</value>
+      <footprint>4ms-footprints:DIP_8pin_TL072_TH</footprint>
+      <libsource lib="4ms-ic" part="TL072"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AABE2F</tstamp>
+    </comp>
+    <comp ref="D3">
+      <value>4148</value>
+      <footprint>4ms-footprints:Diode_BAT-85S_TH</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AABE3B</tstamp>
+    </comp>
+    <comp ref="R10">
+      <value>200k</value>
+      <footprint>4ms-footprints:Resistor_TH_300</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AABE41</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>10k</value>
+      <footprint>4ms-footprints:Resistor_TH_300</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AABE47</tstamp>
+    </comp>
+    <comp ref="C8">
+      <value>10uF</value>
+      <footprint>4ms-footprints:Cap_Ceramic_TH</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AABE59</tstamp>
+    </comp>
+    <comp ref="C5">
+      <value>1uF</value>
+      <footprint>4ms-footprints:Cap_Ceramic_TH</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AABE5F</tstamp>
+    </comp>
+    <comp ref="R16">
+      <value>100k</value>
+      <footprint>4ms-footprints:Resistor_TH_300</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AABE6B</tstamp>
+    </comp>
+    <comp ref="DECAY2">
+      <value>A500k</value>
+      <footprint>4ms-footprints:POT-9MM-ALPHA</footprint>
+      <libsource lib="4ms-mech" part="POT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AABE71</tstamp>
+    </comp>
+    <comp ref="SW10">
+      <value>DECAYSW2</value>
+      <footprint>4ms-footprints:SPDT-SUB</footprint>
+      <libsource lib="zMECH" part="SPDT_small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AABE7D</tstamp>
+    </comp>
+    <comp ref="SW2">
+      <value>HOLD</value>
+      <footprint>4ms-footprints:SPDT-SUB</footprint>
+      <libsource lib="zMECH" part="SPDT_small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AABE83</tstamp>
+    </comp>
+    <comp ref="ATTACK2">
+      <value>A500k</value>
+      <footprint>4ms-footprints:POT-9MM-ALPHA</footprint>
+      <libsource lib="4ms-mech" part="POT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AABE9C</tstamp>
+    </comp>
+    <comp ref="U5">
+      <value>7414</value>
+      <footprint>4ms-footprints:DIP-14_W7.62mm</footprint>
+      <libsource lib="zIC" part="HEX_INV_TRI"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AABEA2</tstamp>
+    </comp>
+    <comp ref="R22">
+      <value>100k</value>
+      <footprint>4ms-footprints:Resistor_TH_300</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AABEC0</tstamp>
+    </comp>
+    <comp ref="C11">
+      <value>1uF</value>
+      <footprint>4ms-footprints:Cap_Electrolytic_TH</footprint>
+      <libsource lib="4ms-passives" part="CAP-ELEC-TH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AABEC6</tstamp>
+    </comp>
+    <comp ref="C19">
+      <value>.1uF</value>
+      <footprint>4ms-footprints:Cap_Ceramic_TH</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AABED2</tstamp>
+    </comp>
+    <comp ref="R29">
+      <value>10k</value>
+      <footprint>4ms-footprints:Resistor_TH_300</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AABED8</tstamp>
+    </comp>
+    <comp ref="SW15">
+      <value>OSCSW2</value>
+      <footprint>4ms-footprints:SPDT-SUB</footprint>
+      <libsource lib="zMECH" part="SPDT_small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AABEEA</tstamp>
+    </comp>
+    <comp ref="SENSE2">
+      <value>A50k</value>
+      <footprint>4ms-footprints:POT-9MM-ALPHA</footprint>
+      <libsource lib="4ms-mech" part="POT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AABF39</tstamp>
+    </comp>
+    <comp ref="R26">
+      <value>100k</value>
+      <footprint>4ms-footprints:Resistor_TH_300</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AB1ED5</tstamp>
+    </comp>
+    <comp ref="C15">
+      <value>1uF</value>
+      <footprint>4ms-footprints:Cap_Electrolytic_TH</footprint>
+      <libsource lib="4ms-passives" part="CAP-ELEC-TH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AB1EDB</tstamp>
+    </comp>
+    <comp ref="C23">
+      <value>.1uF</value>
+      <footprint>4ms-footprints:Cap_Ceramic_TH</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AB1EE7</tstamp>
+    </comp>
+    <comp ref="R33">
+      <value>10k</value>
+      <footprint>4ms-footprints:Resistor_TH_300</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AB1EED</tstamp>
+    </comp>
+    <comp ref="C27">
+      <value>.22uF</value>
+      <footprint>4ms-footprints:Cap_Ceramic_TH</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AB1EF3</tstamp>
+    </comp>
+    <comp ref="C30">
+      <value>1uF</value>
+      <footprint>4ms-footprints:Cap_Electrolytic_TH</footprint>
+      <libsource lib="4ms-passives" part="CAP-ELEC-TH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AB1EF9</tstamp>
+    </comp>
+    <comp ref="OSC3">
+      <value>10k</value>
+      <footprint>4ms-footprints:POT-9MM-ALPHA</footprint>
+      <libsource lib="4ms-mech" part="POT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AB1EFF</tstamp>
+    </comp>
+    <comp ref="R14">
+      <value>470</value>
+      <footprint>4ms-footprints:Resistor_TH_300</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AB1F11</tstamp>
+    </comp>
+    <comp ref="J3">
+      <value>TRIG IN</value>
+      <footprint>zfoot:Jack_Instrument</footprint>
+      <libsource lib="zMECH" part="JACK-TIP_GND"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AB1F23</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>1k</value>
+      <footprint>4ms-footprints:Resistor_TH_300</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AB1F30</tstamp>
+    </comp>
+    <comp ref="U3">
+      <value>072</value>
+      <footprint>4ms-footprints:DIP_8pin_TL072_TH</footprint>
+      <libsource lib="4ms-ic" part="TL072"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AB1F3C</tstamp>
+    </comp>
+    <comp ref="D4">
+      <value>4148</value>
+      <footprint>4ms-footprints:Diode_BAT-85S_TH</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AB1F48</tstamp>
+    </comp>
+    <comp ref="R11">
+      <value>200k</value>
+      <footprint>4ms-footprints:Resistor_TH_300</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AB1F4E</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>10k</value>
+      <footprint>4ms-footprints:Resistor_TH_300</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AB1F54</tstamp>
+    </comp>
+    <comp ref="C9">
+      <value>10uF</value>
+      <footprint>4ms-footprints:Cap_Ceramic_TH</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AB1F66</tstamp>
+    </comp>
+    <comp ref="C6">
+      <value>1uF</value>
+      <footprint>4ms-footprints:Cap_Ceramic_TH</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AB1F6C</tstamp>
+    </comp>
+    <comp ref="R17">
+      <value>100k</value>
+      <footprint>4ms-footprints:Resistor_TH_300</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AB1F78</tstamp>
+    </comp>
+    <comp ref="DECAY3">
+      <value>A500k</value>
+      <footprint>4ms-footprints:POT-9MM-ALPHA</footprint>
+      <libsource lib="4ms-mech" part="POT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AB1F7E</tstamp>
+    </comp>
+    <comp ref="SW11">
+      <value>DECAYSW3</value>
+      <footprint>4ms-footprints:SPDT-SUB</footprint>
+      <libsource lib="zMECH" part="SPDT_small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AB1F8A</tstamp>
+    </comp>
+    <comp ref="SW3">
+      <value>HOLD</value>
+      <footprint>4ms-footprints:SPDT-SUB</footprint>
+      <libsource lib="zMECH" part="SPDT_small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AB1F90</tstamp>
+    </comp>
+    <comp ref="ATTACK3">
+      <value>A500k</value>
+      <footprint>4ms-footprints:POT-9MM-ALPHA</footprint>
+      <libsource lib="4ms-mech" part="POT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AB1FA9</tstamp>
+    </comp>
+    <comp ref="U6">
+      <value>7414</value>
+      <footprint>4ms-footprints:DIP-14_W7.62mm</footprint>
+      <libsource lib="zIC" part="HEX_INV_TRI"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AB1FAF</tstamp>
+    </comp>
+    <comp ref="R23">
+      <value>100k</value>
+      <footprint>4ms-footprints:Resistor_TH_300</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AB1FCD</tstamp>
+    </comp>
+    <comp ref="C12">
+      <value>1uF</value>
+      <footprint>4ms-footprints:Cap_Electrolytic_TH</footprint>
+      <libsource lib="4ms-passives" part="CAP-ELEC-TH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AB1FD3</tstamp>
+    </comp>
+    <comp ref="C20">
+      <value>.1uF</value>
+      <footprint>4ms-footprints:Cap_Ceramic_TH</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AB1FDF</tstamp>
+    </comp>
+    <comp ref="R30">
+      <value>10k</value>
+      <footprint>4ms-footprints:Resistor_TH_300</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AB1FE5</tstamp>
+    </comp>
+    <comp ref="SW16">
+      <value>OSCSW3</value>
+      <footprint>4ms-footprints:SPDT-SUB</footprint>
+      <libsource lib="zMECH" part="SPDT_small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AB1FF7</tstamp>
+    </comp>
+    <comp ref="SENSE3">
+      <value>A50k</value>
+      <footprint>4ms-footprints:POT-9MM-ALPHA</footprint>
+      <libsource lib="4ms-mech" part="POT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AB2046</tstamp>
+    </comp>
+    <comp ref="LEDSW1">
+      <value>DPDT-ILLUM</value>
+      <footprint>4ms-footprints:BUTTON-LED-PB61303</footprint>
+      <libsource lib="4ms-mech" part="DPDT-ILLUM"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59ABFB4A</tstamp>
+    </comp>
+    <comp ref="LEDSW2">
+      <value>DPDT-ILLUM</value>
+      <footprint>4ms-footprints:BUTTON-LED-PB61303</footprint>
+      <libsource lib="4ms-mech" part="DPDT-ILLUM"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AE838D</tstamp>
+    </comp>
+    <comp ref="LEDSW3">
+      <value>DPDT-ILLUM</value>
+      <footprint>4ms-footprints:BUTTON-LED-PB61303</footprint>
+      <libsource lib="4ms-mech" part="DPDT-ILLUM"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AE8C25</tstamp>
+    </comp>
+    <comp ref="R50">
+      <value>470</value>
+      <footprint>4ms-footprints:Resistor_TH_300</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59ABDE32</tstamp>
+    </comp>
+    <comp ref="LEDSW4">
+      <value>DPDT-ILLUM</value>
+      <footprint>4ms-footprints:BUTTON-LED-PB61303</footprint>
+      <libsource lib="4ms-mech" part="DPDT-ILLUM"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59ABDE45</tstamp>
+    </comp>
+    <comp ref="J8">
+      <value>EXP1</value>
+      <footprint>zfoot:Jack_Instrument_exp</footprint>
+      <libsource lib="zMECH" part="JACK-STEREO"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AB9E9D</tstamp>
+    </comp>
+    <comp ref="J9">
+      <value>EXP2</value>
+      <footprint>zfoot:Jack_Instrument_exp</footprint>
+      <libsource lib="zMECH" part="JACK-STEREO"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AD4C65</tstamp>
+    </comp>
+    <comp ref="J10">
+      <value>EXP3</value>
+      <footprint>zfoot:Jack_Instrument_exp</footprint>
+      <libsource lib="zMECH" part="JACK-STEREO"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59AD679A</tstamp>
+    </comp>
+    <comp ref="VREG1">
+      <value>78L05</value>
+      <footprint>4ms-footprints:Regulator_5V_7805_LARGE_TH</footprint>
+      <libsource lib="4ms-power" part="78L05"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>599B6C99</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="transistors" part="2N3904">
+      <description>40V Vce, 0.2A Ic, NPN, Small Signal Transistor, TO-92</description>
+      <docs>https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf</docs>
+      <footprints>
+        <fp>TO?92*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">2N3904</field>
+        <field name="Footprint">TO_SOT_Packages_THT:TO-92_Molded_Narrow</field>
+      </fields>
+      <pins>
+        <pin num="1" name="E" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="4ms-power" part="7805">
+      <aliases>
+        <alias>LM7805</alias>
+        <alias>LM7812</alias>
+        <alias>78L05</alias>
+      </aliases>
+      <description>Linear Regulator +5V</description>
+      <docs>regulator\lm78xx.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">7805</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VI" type="input"/>
+        <pin num="2" name="GND" type="input"/>
+        <pin num="3" name="VO" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="4ms-passives" part="BAT-85">
+      <footprints>
+        <fp>*SMA*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">BAT-85</field>
+        <field name="Footprint">SMA</field>
+      </fields>
+      <pins>
+        <pin num="1" name="C" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="C">
+      <description>Unpolarized capacitor</description>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="4ms-passives" part="CAP-ELEC-TH">
+      <footprints>
+        <fp>*C-POL-5*</fp>
+        <fp>*C-POL-6.3*</fp>
+        <fp>*C-POL-8*</fp>
+        <fp>*C-POL-10*</fp>
+        <fp>*PAN-A*</fp>
+        <fp>*PAN-B*</fp>
+        <fp>*PAN-D*</fp>
+        <fp>*PAN-E*</fp>
+        <fp>*C-POL-4MM*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CAP-ELEC-TH</field>
+        <field name="Footprint">C-POL-5</field>
+      </fields>
+      <pins>
+        <pin num="1" name="+" type="passive"/>
+        <pin num="2" name="-" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="D">
+      <description>Diode</description>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*SingleDiode</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="4ms-mech" part="DPDT-ILLUM">
+      <fields>
+        <field name="Reference">S</field>
+        <field name="Value">DPDT-ILLUM</field>
+      </fields>
+      <pins>
+        <pin num="1" name="UP-A" type="input"/>
+        <pin num="2" name="POLE-A" type="input"/>
+        <pin num="3" name="DOWN-A" type="input"/>
+        <pin num="4" name="UP-B" type="input"/>
+        <pin num="5" name="POLE-B" type="input"/>
+        <pin num="6" name="DOWN-B" type="input"/>
+        <pin num="7" name="A" type="input"/>
+        <pin num="8" name="C" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="zIC" part="HEX_INV_TRI">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">HEX_INV_TRI</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+        <pin num="3" name="~" type="passive"/>
+        <pin num="4" name="~" type="passive"/>
+        <pin num="5" name="~" type="passive"/>
+        <pin num="6" name="~" type="passive"/>
+        <pin num="7" name="~" type="passive"/>
+        <pin num="8" name="~" type="passive"/>
+        <pin num="9" name="~" type="passive"/>
+        <pin num="10" name="~" type="passive"/>
+        <pin num="11" name="~" type="passive"/>
+        <pin num="13" name="~" type="passive"/>
+        <pin num="14" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="zMECH" part="JACK-DC">
+      <description>Jack, Mono with switch and ground</description>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">JACK-DC</field>
+      </fields>
+      <pins>
+        <pin num="1" name="V" type="passive"/>
+        <pin num="2" name="GND" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="zMECH" part="JACK-STEREO">
+      <description>Jack, Mono with switch and ground</description>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">JACK-STEREO</field>
+      </fields>
+      <pins>
+        <pin num="1" name="SW" type="passive"/>
+        <pin num="2" name="SIG" type="passive"/>
+        <pin num="3" name="SHEILD" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="zMECH" part="JACK-TIP_GND">
+      <description>Jack, Mono with switch and ground</description>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">JACK-TIP_GND</field>
+      </fields>
+      <pins>
+        <pin num="1" name="V" type="passive"/>
+        <pin num="2" name="GND" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="4ms-ic" part="OPAMP">
+      <aliases>
+        <alias>TL082</alias>
+        <alias>TL072</alias>
+        <alias>NJM2068</alias>
+      </aliases>
+      <description>Dual Op amp (low power)</description>
+      <docs>ns/lm158.pdf</docs>
+      <footprints>
+        <fp>SOIC*Pitch1.27mm*</fp>
+        <fp>DIP*W7.62mm*</fp>
+        <fp>TSSOP*Pitch0.65mm*</fp>
+        <fp>TO-99*</fp>
+        <fp>DSBGA*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">OPAMP</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="output"/>
+        <pin num="2" name="-" type="input"/>
+        <pin num="3" name="+" type="input"/>
+        <pin num="4" name="V-" type="power_in"/>
+        <pin num="5" name="+" type="input"/>
+        <pin num="6" name="-" type="input"/>
+        <pin num="7" name="~" type="output"/>
+        <pin num="8" name="V+" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="4ms-mech" part="POT">
+      <description>Potentionmeter</description>
+      <footprints>
+        <fp>Potentiometer*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">RV</field>
+        <field name="Value">POT</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Left" type="passive"/>
+        <pin num="2" name="Center" type="passive"/>
+        <pin num="3" name="Right" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="R">
+      <description>Resistor</description>
+      <footprints>
+        <fp>R_*</fp>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="zMECH" part="SPDT_small">
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SPDT_small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="BiDi"/>
+        <pin num="2" name="~" type="BiDi"/>
+        <pin num="3" name="~" type="BiDi"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="4ms-power">
+      <uri>C:\Users\c4am95\Desktop\DRT\4ms-kicad-lib\lib-sch\4ms-power.lib</uri>
+    </library>
+    <library logical="4ms-passives">
+      <uri>C:\Users\c4am95\Desktop\DRT\4ms-kicad-lib\lib-sch\4ms-passives.lib</uri>
+    </library>
+    <library logical="device">
+      <uri>C:\Program Files\KiCad\share\kicad\library\device.lib</uri>
+    </library>
+    <library logical="transistors">
+      <uri>C:\Program Files\KiCad\share\kicad\library\transistors.lib</uri>
+    </library>
+    <library logical="zMECH">
+      <uri>C:\Users\c4am95\Desktop\DRT\zlib\zMECH.lib</uri>
+    </library>
+    <library logical="4ms-ic">
+      <uri>C:\Users\c4am95\Desktop\DRT\4ms-kicad-lib\lib-sch\4ms-ic.lib</uri>
+    </library>
+    <library logical="zIC">
+      <uri>C:\Users\c4am95\Desktop\DRT\zlib\zIC.lib</uri>
+    </library>
+    <library logical="4ms-mech">
+      <uri>C:\Users\c4am95\Desktop\DRT\4ms-kicad-lib\lib-sch\4ms-mech.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(R37-Pad2)">
+      <node ref="R37" pin="2"/>
+      <node ref="U10" pin="2"/>
+      <node ref="R41" pin="2"/>
+    </net>
+    <net code="2" name="Net-(R41-Pad1)">
+      <node ref="U10" pin="1"/>
+      <node ref="VOL1" pin="1"/>
+      <node ref="R41" pin="1"/>
+    </net>
+    <net code="3" name="Net-(R1-Pad2)">
+      <node ref="SENSE1" pin="2"/>
+      <node ref="U1" pin="3"/>
+      <node ref="R1" pin="2"/>
+    </net>
+    <net code="4" name="Net-(C7-Pad1)">
+      <node ref="C7" pin="1"/>
+      <node ref="SW9" pin="1"/>
+    </net>
+    <net code="5" name="Net-(C4-Pad2)">
+      <node ref="SW9" pin="3"/>
+      <node ref="C4" pin="2"/>
+    </net>
+    <net code="6" name="Net-(C32-Pad1)">
+      <node ref="C32" pin="1"/>
+      <node ref="R48" pin="1"/>
+      <node ref="U11" pin="1"/>
+    </net>
+    <net code="7" name="Net-(ATTACK1-Pad1)">
+      <node ref="ATTACK1" pin="1"/>
+      <node ref="D2" pin="1"/>
+    </net>
+    <net code="8" name="Net-(C21-Pad2)">
+      <node ref="R24" pin="2"/>
+      <node ref="C21" pin="2"/>
+      <node ref="U4" pin="2"/>
+    </net>
+    <net code="9" name="Net-(C13-Pad1)">
+      <node ref="C13" pin="1"/>
+      <node ref="U4" pin="1"/>
+      <node ref="R24" pin="1"/>
+    </net>
+    <net code="10" name="Net-(C10-Pad1)">
+      <node ref="R21" pin="1"/>
+      <node ref="C10" pin="1"/>
+      <node ref="U4" pin="14"/>
+    </net>
+    <net code="11" name="Net-(J8-Pad2)">
+      <node ref="U4" pin="6"/>
+      <node ref="J8" pin="2"/>
+      <node ref="R37" pin="1"/>
+    </net>
+    <net code="12" name="Net-(C31-Pad1)">
+      <node ref="R35" pin="1"/>
+      <node ref="C31" pin="1"/>
+      <node ref="D6" pin="2"/>
+    </net>
+    <net code="13" name="Net-(C31-Pad2)">
+      <node ref="C31" pin="2"/>
+      <node ref="R36" pin="2"/>
+    </net>
+    <net code="14" name="Net-(R4-Pad1)">
+      <node ref="U1" pin="2"/>
+      <node ref="R4" pin="1"/>
+      <node ref="R9" pin="2"/>
+    </net>
+    <net code="15" name="Net-(D2-Pad2)">
+      <node ref="U1" pin="1"/>
+      <node ref="D2" pin="2"/>
+      <node ref="R9" pin="1"/>
+    </net>
+    <net code="16" name="Net-(DECAY1-Pad1)">
+      <node ref="R15" pin="2"/>
+      <node ref="DECAY1" pin="1"/>
+    </net>
+    <net code="17" name="Net-(R35-Pad2)">
+      <node ref="R35" pin="2"/>
+      <node ref="U8" pin="6"/>
+      <node ref="U8" pin="7"/>
+    </net>
+    <net code="18" name="Net-(R19-Pad1)">
+      <node ref="R20" pin="2"/>
+      <node ref="U8" pin="2"/>
+      <node ref="R19" pin="1"/>
+    </net>
+    <net code="19" name="Net-(D5-Pad2)">
+      <node ref="U8" pin="1"/>
+      <node ref="D5" pin="2"/>
+      <node ref="R20" pin="1"/>
+    </net>
+    <net code="20" name="Net-(R18-Pad2)">
+      <node ref="U8" pin="3"/>
+      <node ref="R18" pin="2"/>
+      <node ref="SENSE4" pin="2"/>
+    </net>
+    <net code="21" name="Net-(DECAY4-Pad1)">
+      <node ref="DECAY4" pin="1"/>
+      <node ref="R27" pin="2"/>
+    </net>
+    <net code="22" name="Net-(C16-Pad2)">
+      <node ref="C16" pin="2"/>
+      <node ref="SW13" pin="3"/>
+    </net>
+    <net code="23" name="Net-(C17-Pad1)">
+      <node ref="SW13" pin="1"/>
+      <node ref="C17" pin="1"/>
+    </net>
+    <net code="24" name="Net-(ATTACK4-Pad1)">
+      <node ref="D5" pin="1"/>
+      <node ref="ATTACK4" pin="1"/>
+    </net>
+    <net code="25" name="Net-(C18-Pad1)">
+      <node ref="R28" pin="1"/>
+      <node ref="U4" pin="11"/>
+      <node ref="C18" pin="1"/>
+    </net>
+    <net code="26" name="Net-(C18-Pad2)">
+      <node ref="U4" pin="13"/>
+      <node ref="R21" pin="2"/>
+      <node ref="C18" pin="2"/>
+    </net>
+    <net code="27" name="Net-(C25-Pad1)">
+      <node ref="OSC1" pin="1"/>
+      <node ref="OSC1" pin="2"/>
+      <node ref="U4" pin="5"/>
+      <node ref="C25" pin="1"/>
+      <node ref="C28" pin="1"/>
+    </net>
+    <net code="28" name="Net-(R31-Pad2)">
+      <node ref="R31" pin="2"/>
+      <node ref="U4" pin="4"/>
+      <node ref="SW14" pin="3"/>
+    </net>
+    <net code="29" name="Net-(R28-Pad2)">
+      <node ref="U4" pin="10"/>
+      <node ref="SW14" pin="1"/>
+      <node ref="R28" pin="2"/>
+    </net>
+    <net code="30" name="Net-(R45-Pad1)">
+      <node ref="SW18" pin="1"/>
+      <node ref="R45" pin="1"/>
+    </net>
+    <net code="31" name="Net-(D1-Pad2)">
+      <node ref="SW4" pin="1"/>
+      <node ref="D1" pin="2"/>
+    </net>
+    <net code="32" name="GND">
+      <node ref="C28" pin="2"/>
+      <node ref="J6" pin="2"/>
+      <node ref="U8" pin="4"/>
+      <node ref="J5" pin="2"/>
+      <node ref="U10" pin="8"/>
+      <node ref="U11" pin="8"/>
+      <node ref="MASTERV1" pin="3"/>
+      <node ref="SENSE1" pin="3"/>
+      <node ref="C29" pin="2"/>
+      <node ref="U4" pin="9"/>
+      <node ref="C10" pin="2"/>
+      <node ref="J7" pin="2"/>
+      <node ref="DECAY4" pin="3"/>
+      <node ref="DECAY4" pin="2"/>
+      <node ref="C16" pin="1"/>
+      <node ref="C17" pin="2"/>
+      <node ref="R19" pin="2"/>
+      <node ref="U4" pin="7"/>
+      <node ref="C14" pin="2"/>
+      <node ref="R6" pin="2"/>
+      <node ref="C30" pin="2"/>
+      <node ref="DECAY3" pin="3"/>
+      <node ref="DECAY3" pin="2"/>
+      <node ref="C6" pin="1"/>
+      <node ref="C9" pin="2"/>
+      <node ref="U3" pin="4"/>
+      <node ref="U5" pin="7"/>
+      <node ref="C15" pin="2"/>
+      <node ref="DECAY2" pin="3"/>
+      <node ref="DECAY2" pin="2"/>
+      <node ref="C5" pin="1"/>
+      <node ref="R5" pin="2"/>
+      <node ref="U2" pin="4"/>
+      <node ref="J2" pin="2"/>
+      <node ref="C8" pin="2"/>
+      <node ref="SENSE4" pin="3"/>
+      <node ref="U9" pin="8"/>
+      <node ref="J3" pin="2"/>
+      <node ref="C1" pin="2"/>
+      <node ref="C4" pin="1"/>
+      <node ref="C13" pin="2"/>
+      <node ref="C2" pin="2"/>
+      <node ref="DECAY1" pin="2"/>
+      <node ref="J4" pin="2"/>
+      <node ref="C24" pin="2"/>
+      <node ref="Q1" pin="1"/>
+      <node ref="SENSE2" pin="3"/>
+      <node ref="U5" pin="9"/>
+      <node ref="C11" pin="2"/>
+      <node ref="R4" pin="2"/>
+      <node ref="J1" pin="2"/>
+      <node ref="U1" pin="4"/>
+      <node ref="C3" pin="2"/>
+      <node ref="R8" pin="2"/>
+      <node ref="C7" pin="2"/>
+      <node ref="DECAY1" pin="3"/>
+      <node ref="J9" pin="3"/>
+      <node ref="J8" pin="3"/>
+      <node ref="C12" pin="2"/>
+      <node ref="U6" pin="9"/>
+      <node ref="U6" pin="7"/>
+      <node ref="LEDSW2" pin="8"/>
+      <node ref="LEDSW1" pin="8"/>
+      <node ref="SENSE3" pin="3"/>
+      <node ref="LEDSW4" pin="8"/>
+      <node ref="LEDSW3" pin="8"/>
+      <node ref="VREG1" pin="2"/>
+      <node ref="J10" pin="3"/>
+    </net>
+    <net code="33" name="Net-(LEDSW1-Pad6)">
+      <node ref="LEDSW1" pin="6"/>
+    </net>
+    <net code="34" name="Net-(LEDSW1-Pad5)">
+      <node ref="LEDSW1" pin="5"/>
+    </net>
+    <net code="35" name="Net-(LEDSW1-Pad4)">
+      <node ref="LEDSW1" pin="4"/>
+    </net>
+    <net code="36" name="Net-(LEDSW1-Pad1)">
+      <node ref="LEDSW1" pin="1"/>
+    </net>
+    <net code="37" name="Net-(LEDSW1-Pad7)">
+      <node ref="LEDSW1" pin="7"/>
+      <node ref="R12" pin="2"/>
+    </net>
+    <net code="38" name="Net-(R33-Pad2)">
+      <node ref="SW16" pin="3"/>
+      <node ref="U6" pin="4"/>
+      <node ref="R33" pin="2"/>
+    </net>
+    <net code="39" name="Net-(C27-Pad2)">
+      <node ref="C27" pin="2"/>
+      <node ref="SW16" pin="2"/>
+    </net>
+    <net code="40" name="Net-(LEDSW2-Pad1)">
+      <node ref="LEDSW2" pin="1"/>
+    </net>
+    <net code="41" name="Net-(J2-Pad1)">
+      <node ref="R2" pin="1"/>
+      <node ref="J2" pin="1"/>
+      <node ref="SENSE2" pin="1"/>
+      <node ref="LEDSW2" pin="2"/>
+      <node ref="SW2" pin="3"/>
+    </net>
+    <net code="42" name="Net-(LEDSW2-Pad4)">
+      <node ref="LEDSW2" pin="4"/>
+    </net>
+    <net code="43" name="Net-(LEDSW2-Pad5)">
+      <node ref="LEDSW2" pin="5"/>
+    </net>
+    <net code="44" name="Net-(LEDSW2-Pad6)">
+      <node ref="LEDSW2" pin="6"/>
+    </net>
+    <net code="45" name="Net-(LEDSW2-Pad7)">
+      <node ref="R13" pin="2"/>
+      <node ref="LEDSW2" pin="7"/>
+    </net>
+    <net code="46" name="Net-(LEDSW3-Pad1)">
+      <node ref="LEDSW3" pin="1"/>
+    </net>
+    <net code="47" name="Net-(J3-Pad1)">
+      <node ref="SENSE3" pin="1"/>
+      <node ref="R3" pin="1"/>
+      <node ref="SW3" pin="3"/>
+      <node ref="J3" pin="1"/>
+      <node ref="LEDSW3" pin="2"/>
+    </net>
+    <net code="48" name="Net-(SW3-Pad1)">
+      <node ref="SW3" pin="1"/>
+    </net>
+    <net code="49" name="Net-(ATTACK3-Pad1)">
+      <node ref="D4" pin="1"/>
+      <node ref="ATTACK3" pin="1"/>
+    </net>
+    <net code="50" name="+5V">
+      <node ref="U11" pin="4"/>
+      <node ref="U10" pin="4"/>
+      <node ref="LEDSW4" pin="3"/>
+      <node ref="SW8" pin="2"/>
+      <node ref="U2" pin="8"/>
+      <node ref="U3" pin="8"/>
+      <node ref="LEDSW1" pin="3"/>
+      <node ref="SW1" pin="2"/>
+      <node ref="SW3" pin="2"/>
+      <node ref="U1" pin="8"/>
+      <node ref="U9" pin="4"/>
+      <node ref="LEDSW3" pin="3"/>
+      <node ref="R7" pin="1"/>
+      <node ref="LEDSW2" pin="3"/>
+      <node ref="C2" pin="1"/>
+      <node ref="VREG1" pin="3"/>
+      <node ref="SW2" pin="2"/>
+      <node ref="U8" pin="8"/>
+    </net>
+    <net code="51" name="Net-(R14-Pad1)">
+      <node ref="R14" pin="1"/>
+      <node ref="U6" pin="8"/>
+    </net>
+    <net code="52" name="Net-(C12-Pad1)">
+      <node ref="C12" pin="1"/>
+      <node ref="R23" pin="1"/>
+      <node ref="U6" pin="14"/>
+    </net>
+    <net code="53" name="Net-(C20-Pad1)">
+      <node ref="C20" pin="1"/>
+      <node ref="R30" pin="1"/>
+      <node ref="U6" pin="11"/>
+    </net>
+    <net code="54" name="Net-(R30-Pad2)">
+      <node ref="SW16" pin="1"/>
+      <node ref="R30" pin="2"/>
+      <node ref="U6" pin="10"/>
+    </net>
+    <net code="55" name="Net-(J8-Pad1)">
+      <node ref="OSC1" pin="3"/>
+      <node ref="J8" pin="1"/>
+    </net>
+    <net code="56" name="Net-(J9-Pad1)">
+      <node ref="J9" pin="1"/>
+      <node ref="OSC2" pin="3"/>
+    </net>
+    <net code="57" name="Net-(J10-Pad1)">
+      <node ref="J10" pin="1"/>
+      <node ref="OSC3" pin="3"/>
+    </net>
+    <net code="58" name="Net-(C1-Pad1)">
+      <node ref="D1" pin="1"/>
+      <node ref="VREG1" pin="1"/>
+      <node ref="C1" pin="1"/>
+    </net>
+    <net code="59" name="Net-(J4-Pad1)">
+      <node ref="J4" pin="1"/>
+      <node ref="SW4" pin="2"/>
+    </net>
+    <net code="60" name="Net-(C21-Pad1)">
+      <node ref="C21" pin="1"/>
+      <node ref="U4" pin="3"/>
+      <node ref="R31" pin="1"/>
+    </net>
+    <net code="61" name="Net-(LEDSW3-Pad4)">
+      <node ref="LEDSW3" pin="4"/>
+    </net>
+    <net code="62" name="Net-(LEDSW3-Pad5)">
+      <node ref="LEDSW3" pin="5"/>
+    </net>
+    <net code="63" name="Net-(LEDSW3-Pad6)">
+      <node ref="LEDSW3" pin="6"/>
+    </net>
+    <net code="64" name="Net-(LEDSW3-Pad7)">
+      <node ref="R14" pin="2"/>
+      <node ref="LEDSW3" pin="7"/>
+    </net>
+    <net code="65" name="LED_AR">
+      <node ref="U11" pin="7"/>
+      <node ref="U11" pin="6"/>
+      <node ref="R50" pin="1"/>
+    </net>
+    <net code="66" name="Net-(LEDSW4-Pad1)">
+      <node ref="LEDSW4" pin="1"/>
+    </net>
+    <net code="67" name="Net-(J5-Pad1)">
+      <node ref="LEDSW4" pin="2"/>
+      <node ref="R18" pin="1"/>
+      <node ref="SENSE4" pin="1"/>
+      <node ref="SW8" pin="3"/>
+      <node ref="J5" pin="1"/>
+    </net>
+    <net code="68" name="Net-(LEDSW4-Pad4)">
+      <node ref="LEDSW4" pin="4"/>
+    </net>
+    <net code="69" name="Net-(LEDSW4-Pad5)">
+      <node ref="LEDSW4" pin="5"/>
+    </net>
+    <net code="70" name="Net-(LEDSW4-Pad6)">
+      <node ref="LEDSW4" pin="6"/>
+    </net>
+    <net code="71" name="Net-(LEDSW4-Pad7)">
+      <node ref="LEDSW4" pin="7"/>
+      <node ref="R50" pin="2"/>
+    </net>
+    <net code="72" name="Net-(C20-Pad2)">
+      <node ref="U6" pin="13"/>
+      <node ref="C20" pin="2"/>
+      <node ref="R23" pin="2"/>
+    </net>
+    <net code="73" name="Net-(C15-Pad1)">
+      <node ref="C15" pin="1"/>
+      <node ref="R26" pin="1"/>
+      <node ref="U6" pin="1"/>
+    </net>
+    <net code="74" name="Net-(C23-Pad2)">
+      <node ref="C23" pin="2"/>
+      <node ref="U6" pin="2"/>
+      <node ref="R26" pin="2"/>
+    </net>
+    <net code="75" name="Net-(J10-Pad2)">
+      <node ref="J10" pin="2"/>
+      <node ref="U6" pin="6"/>
+      <node ref="R39" pin="1"/>
+    </net>
+    <net code="76" name="Net-(R12-Pad1)">
+      <node ref="U4" pin="8"/>
+      <node ref="R12" pin="1"/>
+    </net>
+    <net code="77" name="Net-(R11-Pad2)">
+      <node ref="U3" pin="2"/>
+      <node ref="R6" pin="1"/>
+      <node ref="R11" pin="2"/>
+    </net>
+    <net code="78" name="Net-(D4-Pad2)">
+      <node ref="D4" pin="2"/>
+      <node ref="R11" pin="1"/>
+      <node ref="U3" pin="1"/>
+    </net>
+    <net code="79" name="Net-(R3-Pad2)">
+      <node ref="R3" pin="2"/>
+      <node ref="SENSE3" pin="2"/>
+      <node ref="U3" pin="3"/>
+    </net>
+    <net code="80" name="Net-(DECAY3-Pad1)">
+      <node ref="DECAY3" pin="1"/>
+      <node ref="R17" pin="2"/>
+    </net>
+    <net code="81" name="Net-(C6-Pad2)">
+      <node ref="SW11" pin="3"/>
+      <node ref="C6" pin="2"/>
+    </net>
+    <net code="82" name="Net-(C9-Pad1)">
+      <node ref="SW11" pin="1"/>
+      <node ref="C9" pin="1"/>
+    </net>
+    <net code="83" name="Net-(J1-Pad1)">
+      <node ref="R1" pin="1"/>
+      <node ref="LEDSW1" pin="2"/>
+      <node ref="SW1" pin="3"/>
+      <node ref="SENSE1" pin="1"/>
+      <node ref="J1" pin="1"/>
+    </net>
+    <net code="84" name="Net-(R13-Pad1)">
+      <node ref="U5" pin="8"/>
+      <node ref="R13" pin="1"/>
+    </net>
+    <net code="85" name="Net-(C32-Pad2)">
+      <node ref="C32" pin="2"/>
+      <node ref="R49" pin="2"/>
+    </net>
+    <net code="86" name="Net-(R49-Pad1)">
+      <node ref="R49" pin="1"/>
+      <node ref="SW21" pin="1"/>
+    </net>
+    <net code="87" name="Net-(MASTERV1-Pad1)">
+      <node ref="MASTERV1" pin="1"/>
+      <node ref="SW21" pin="2"/>
+    </net>
+    <net code="88" name="Net-(J7-Pad1)">
+      <node ref="J7" pin="1"/>
+      <node ref="MASTERV1" pin="2"/>
+    </net>
+    <net code="89" name="Net-(C14-Pad1)">
+      <node ref="C14" pin="1"/>
+      <node ref="R25" pin="1"/>
+      <node ref="U5" pin="1"/>
+    </net>
+    <net code="90" name="Net-(C22-Pad1)">
+      <node ref="R32" pin="1"/>
+      <node ref="U5" pin="3"/>
+      <node ref="C22" pin="1"/>
+    </net>
+    <net code="91" name="Net-(J9-Pad2)">
+      <node ref="R38" pin="1"/>
+      <node ref="U5" pin="6"/>
+      <node ref="J9" pin="2"/>
+    </net>
+    <net code="92" name="Net-(R10-Pad2)">
+      <node ref="U2" pin="2"/>
+      <node ref="R10" pin="2"/>
+      <node ref="R5" pin="1"/>
+    </net>
+    <net code="93" name="Net-(D3-Pad2)">
+      <node ref="D3" pin="2"/>
+      <node ref="R10" pin="1"/>
+      <node ref="U2" pin="1"/>
+    </net>
+    <net code="94" name="Net-(R43-Pad1)">
+      <node ref="VOL3" pin="1"/>
+      <node ref="U9" pin="1"/>
+      <node ref="R43" pin="1"/>
+    </net>
+    <net code="95" name="Net-(R38-Pad2)">
+      <node ref="R42" pin="2"/>
+      <node ref="U10" pin="6"/>
+      <node ref="R38" pin="2"/>
+    </net>
+    <net code="96" name="Net-(R42-Pad1)">
+      <node ref="VOL2" pin="1"/>
+      <node ref="R42" pin="1"/>
+      <node ref="U10" pin="7"/>
+    </net>
+    <net code="97" name="Net-(R46-Pad1)">
+      <node ref="R46" pin="1"/>
+      <node ref="SW19" pin="1"/>
+    </net>
+    <net code="98" name="Net-(R39-Pad2)">
+      <node ref="U9" pin="2"/>
+      <node ref="R43" pin="2"/>
+      <node ref="R39" pin="2"/>
+    </net>
+    <net code="99" name="Net-(R47-Pad1)">
+      <node ref="R47" pin="1"/>
+      <node ref="SW20" pin="1"/>
+    </net>
+    <net code="100" name="Net-(R36-Pad1)">
+      <node ref="R40" pin="2"/>
+      <node ref="U9" pin="6"/>
+      <node ref="R36" pin="1"/>
+    </net>
+    <net code="101" name="Net-(R40-Pad1)">
+      <node ref="VOL4" pin="1"/>
+      <node ref="R40" pin="1"/>
+      <node ref="U9" pin="7"/>
+    </net>
+    <net code="102" name="Net-(R44-Pad1)">
+      <node ref="SW17" pin="1"/>
+      <node ref="R44" pin="1"/>
+    </net>
+    <net code="103" name="Net-(C11-Pad1)">
+      <node ref="R22" pin="1"/>
+      <node ref="C11" pin="1"/>
+      <node ref="U5" pin="14"/>
+    </net>
+    <net code="104" name="Net-(C26-Pad1)">
+      <node ref="OSC2" pin="2"/>
+      <node ref="U5" pin="5"/>
+      <node ref="C29" pin="1"/>
+      <node ref="OSC2" pin="1"/>
+      <node ref="C26" pin="1"/>
+    </net>
+    <net code="105" name="Net-(R32-Pad2)">
+      <node ref="R32" pin="2"/>
+      <node ref="SW15" pin="3"/>
+      <node ref="U5" pin="4"/>
+    </net>
+    <net code="106" name="Net-(R29-Pad2)">
+      <node ref="U5" pin="10"/>
+      <node ref="SW15" pin="1"/>
+      <node ref="R29" pin="2"/>
+    </net>
+    <net code="107" name="Net-(R2-Pad2)">
+      <node ref="R2" pin="2"/>
+      <node ref="U2" pin="3"/>
+      <node ref="SENSE2" pin="2"/>
+    </net>
+    <net code="108" name="Net-(C19-Pad2)">
+      <node ref="R22" pin="2"/>
+      <node ref="U5" pin="13"/>
+      <node ref="C19" pin="2"/>
+    </net>
+    <net code="109" name="Net-(C23-Pad1)">
+      <node ref="C23" pin="1"/>
+      <node ref="U6" pin="3"/>
+      <node ref="R33" pin="1"/>
+    </net>
+    <net code="110" name="Net-(C27-Pad1)">
+      <node ref="C27" pin="1"/>
+      <node ref="C30" pin="1"/>
+      <node ref="OSC3" pin="1"/>
+      <node ref="U6" pin="5"/>
+      <node ref="OSC3" pin="2"/>
+    </net>
+    <net code="111" name="Net-(DECAY2-Pad1)">
+      <node ref="R16" pin="2"/>
+      <node ref="DECAY2" pin="1"/>
+    </net>
+    <net code="112" name="Net-(C5-Pad2)">
+      <node ref="C5" pin="2"/>
+      <node ref="SW10" pin="3"/>
+    </net>
+    <net code="113" name="Net-(C8-Pad1)">
+      <node ref="C8" pin="1"/>
+      <node ref="SW10" pin="1"/>
+    </net>
+    <net code="114" name="Net-(ATTACK2-Pad1)">
+      <node ref="D3" pin="1"/>
+      <node ref="ATTACK2" pin="1"/>
+    </net>
+    <net code="115" name="Net-(C22-Pad2)">
+      <node ref="C22" pin="2"/>
+      <node ref="U5" pin="2"/>
+      <node ref="R25" pin="2"/>
+    </net>
+    <net code="116" name="Net-(C19-Pad1)">
+      <node ref="R29" pin="1"/>
+      <node ref="U5" pin="11"/>
+      <node ref="C19" pin="1"/>
+    </net>
+    <net code="117" name="Net-(C25-Pad2)">
+      <node ref="SW14" pin="2"/>
+      <node ref="C25" pin="2"/>
+    </net>
+    <net code="118" name="Net-(SW18-Pad3)">
+      <node ref="SW18" pin="3"/>
+    </net>
+    <net code="119" name="Net-(SW21-Pad3)">
+      <node ref="SW21" pin="3"/>
+    </net>
+    <net code="120" name="Net-(R45-Pad2)">
+      <node ref="VOL1" pin="2"/>
+      <node ref="R45" pin="2"/>
+    </net>
+    <net code="121" name="Net-(ATTACK4-Pad2)">
+      <node ref="U11" pin="5"/>
+      <node ref="R27" pin="1"/>
+      <node ref="SW13" pin="2"/>
+      <node ref="ATTACK4" pin="3"/>
+      <node ref="ATTACK4" pin="2"/>
+      <node ref="U8" pin="5"/>
+    </net>
+    <net code="122" name="Net-(SW8-Pad1)">
+      <node ref="SW8" pin="1"/>
+    </net>
+    <net code="123" name="2.5v">
+      <node ref="VOL4" pin="3"/>
+      <node ref="U10" pin="5"/>
+      <node ref="VOL2" pin="3"/>
+      <node ref="U9" pin="5"/>
+      <node ref="U11" pin="3"/>
+      <node ref="R7" pin="2"/>
+      <node ref="R8" pin="1"/>
+      <node ref="C3" pin="1"/>
+      <node ref="U9" pin="3"/>
+      <node ref="VOL1" pin="3"/>
+      <node ref="U10" pin="3"/>
+      <node ref="VOL3" pin="3"/>
+    </net>
+    <net code="124" name="Net-(Q1-Pad2)">
+      <node ref="Q1" pin="2"/>
+      <node ref="R34" pin="2"/>
+    </net>
+    <net code="125" name="Net-(D6-Pad1)">
+      <node ref="Q1" pin="3"/>
+      <node ref="D6" pin="1"/>
+    </net>
+    <net code="126" name="Net-(C24-Pad1)">
+      <node ref="C24" pin="1"/>
+      <node ref="J6" pin="1"/>
+      <node ref="R34" pin="1"/>
+    </net>
+    <net code="127" name="Net-(SW4-Pad3)">
+      <node ref="SW4" pin="3"/>
+    </net>
+    <net code="128" name="Net-(ATTACK1-Pad2)">
+      <node ref="U1" pin="5"/>
+      <node ref="ATTACK1" pin="3"/>
+      <node ref="ATTACK1" pin="2"/>
+      <node ref="SW9" pin="2"/>
+      <node ref="R15" pin="1"/>
+    </net>
+    <net code="129" name="Net-(SW1-Pad1)">
+      <node ref="SW1" pin="1"/>
+    </net>
+    <net code="131" name="Net-(U1-Pad6)">
+      <node ref="U1" pin="6"/>
+      <node ref="U1" pin="7"/>
+      <node ref="U4" pin="14"/>
+    </net>
+    <net code="132" name="Net-(C26-Pad2)">
+      <node ref="SW15" pin="2"/>
+      <node ref="C26" pin="2"/>
+    </net>
+    <net code="133" name="Net-(ATTACK2-Pad2)">
+      <node ref="U2" pin="5"/>
+      <node ref="SW10" pin="2"/>
+      <node ref="R16" pin="1"/>
+      <node ref="ATTACK2" pin="3"/>
+      <node ref="ATTACK2" pin="2"/>
+    </net>
+    <net code="134" name="Net-(SW2-Pad1)">
+      <node ref="SW2" pin="1"/>
+    </net>
+    <net code="135" name="Net-(U3-Pad6)">
+      <node ref="U3" pin="7"/>
+      <node ref="U3" pin="6"/>
+      <node ref="U6" pin="14"/>
+    </net>
+    <net code="136" name="Net-(ATTACK3-Pad2)">
+      <node ref="ATTACK3" pin="3"/>
+      <node ref="SW11" pin="2"/>
+      <node ref="R17" pin="1"/>
+      <node ref="U3" pin="5"/>
+      <node ref="ATTACK3" pin="2"/>
+    </net>
+    <net code="137" name="Net-(R47-Pad2)">
+      <node ref="VOL3" pin="2"/>
+      <node ref="R47" pin="2"/>
+    </net>
+    <net code="138" name="Net-(R48-Pad2)">
+      <node ref="SW18" pin="2"/>
+      <node ref="U11" pin="2"/>
+      <node ref="R48" pin="2"/>
+      <node ref="SW17" pin="2"/>
+      <node ref="SW19" pin="2"/>
+      <node ref="SW20" pin="2"/>
+    </net>
+    <net code="139" name="Net-(SW20-Pad3)">
+      <node ref="SW20" pin="3"/>
+    </net>
+    <net code="140" name="Net-(R44-Pad2)">
+      <node ref="R44" pin="2"/>
+      <node ref="VOL4" pin="2"/>
+    </net>
+    <net code="141" name="Net-(SW17-Pad3)">
+      <node ref="SW17" pin="3"/>
+    </net>
+    <net code="142" name="Net-(R46-Pad2)">
+      <node ref="R46" pin="2"/>
+      <node ref="VOL2" pin="2"/>
+    </net>
+    <net code="143" name="Net-(SW19-Pad3)">
+      <node ref="SW19" pin="3"/>
+    </net>
+    <net code="144" name="Net-(U2-Pad6)">
+      <node ref="U5" pin="14"/>
+      <node ref="U2" pin="6"/>
+      <node ref="U2" pin="7"/>
+    </net>
+  </nets>
+</export>
